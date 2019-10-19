@@ -1,2 +1,6 @@
-# Tic-Tac-Toe
-Code containing Tic-Tac-Toe variants 
+# Tac-Tic-Toe
+Is a game that is a little evolved form of the simple Tic-Tac-Toe game. The game features two types of mode (v/s Player or Computer) each with 3 levels of difficulty. The game contains many different variants of Tic Tac Toe as follow:
+  1) Traditional: The traditional way in which tic-tac-toe is played in day to day lives.
+  2) 3 in a Row: In this game mode at one time the number of O's or X's cannot exceed 3. So once the player/computer has 3 marks on the board, in their next turn the earliest mark gets removed and they get a chance to change its position. The game moves on like this until someone wins. Because in a simple 3X3 board there are 9 empty pots and at any time there can be at most 6 spots filled there is no way for this game to end on a draw.
+  3) Three Dimensional: 3D tic-tac-toe, also known by the trade name Qubic, is an abstract strategy board game, generally for two players. It is similar in concept to traditional tic-tac-toe but is played in a cubical array of cells, usually 4x4x4. Players take turns placing their markers in blank cells in the array. The first player to achieve four of their own markers in a row wins. The winning row can be horizontal, vertical, or diagonal on a single board as in regular tic-tac-toe, or vertically in a column, or a diagonal line through four boards.
+  4) Ultimate: Described as a game with Tic-Tac-Toe inside Tic-Tac-Toe this game mode offers a litle bit tricky approach to the traditional Tic-Tac-Toe game. To read the rules please go to - https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/
